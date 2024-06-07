@@ -7,7 +7,6 @@ int main() {
     int testCase;
     cout<<"Enter the no. of test cases : ";
     cin>>testCase;
-    cin.ignore();
     while(testCase--){
         int lengthOfScore;
         cout<<"Enter the length of score : ";
